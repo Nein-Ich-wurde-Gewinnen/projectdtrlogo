@@ -1,6 +1,0 @@
-# Этот файл отключён — основной workflow в build.yml
-# Можно безопасно удалить этот файл из репозитория командой:
-#   git rm .github/workflows/main.yml
-name: "(disabled)"
-on: []
-jobs: {}
